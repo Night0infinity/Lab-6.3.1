@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.3.docxv\Lab 6.3.1\Lab 6.3.1\Source.cpp(30): warning C4715: 'suma': not all control paths return a value
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.3.docxv\Lab 6.3.1\Lab 6.3.1\Source.cpp(60): warning C4715: 'sumatemp<int>': not all control paths return a value
+  Lab 6.3.1.vcxproj -> C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.3.docxv\Lab 6.3.1\x64\Debug\Lab 6.3.1.exe
